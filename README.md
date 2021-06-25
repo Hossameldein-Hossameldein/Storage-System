@@ -1,7 +1,7 @@
-##########################
-1-Create database
-2- Create View
-3- Create CRUD
+
+# Create database
+# Create View
+# Create CRUD
 ###########################
 ## Create Databse
 1- name = drive
